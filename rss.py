@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 import re
 
 posts = []
@@ -10,11 +10,22 @@ response = requests.get('https://midnight480.com/feed')
 root = ET.fromstring(response.content)
 
 for item in root.findall('.//item'):
-    posts.append({
-        'title': item.find('title').text,
-        'date': datetime.strptime(item.find('pubDate').text, '%a, %d %b %Y %H:%M:%S %z').strftime('%Y-%m-%d %H:%M:%S'),
-        'url': item.find('link').text
-    })
+    try:
+        # 日付文字列を取得してパース
+        pub_date = item.find('pubDate').text
+        date_obj = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S GMT')
+        # UTCタイムゾーンを設定
+        date_obj = date_obj.replace(tzinfo=timezone.utc)
+        
+        posts.append({
+            'title': item.find('title').text,
+            'date': date_obj.strftime('%Y-%m-%d %H:%M:%S'),
+            'url': item.find('link').text
+        })
+    except (ValueError, AttributeError) as e:
+        print(f"Error processing item: {e}")
+        print(f"Problematic date string: {item.find('pubDate').text}")
+        continue
 
 # 日付でソート
 posts.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d %H:%M:%S'), reverse=True)
