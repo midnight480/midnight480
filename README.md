@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ## Status
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/midnight480" target="_blank" rel="noopener noreferrer"><img alt="midnight480's scores on LAPRAS are as follows: Engineering: 3.11 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.71 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.11&b=3.36&i=3.71&b1=%23887d65&b2=%23fcfcfc&i1=%23e2e0dc&i2=%23cca785&l=en" width="350" ></a>  
-Last Updated on 12/11/2024, 12:01:58 AM</p>
+Last Updated on 12/12/2024, 12:01:44 AM</p>
 <!--END_SECTION:lapras-card-->
