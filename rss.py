@@ -17,10 +17,14 @@ for item in root.findall('.//item'):
         # UTCタイムゾーンを設定
         date_obj = date_obj.replace(tzinfo=timezone.utc)
         
+        # URLの書き換え処理を追加
+        url = item.find('link').text
+        url = url.replace('astro-notion-blog-cq9.pages.dev', 'midnight480.com')
+        
         posts.append({
             'title': item.find('title').text,
             'date': date_obj.strftime('%Y-%m-%d %H:%M:%S'),
-            'url': item.find('link').text
+            'url': url
         })
     except (ValueError, AttributeError) as e:
         print(f"Error processing item: {e}")
