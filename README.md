@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
+- [４年ぶりのJAWS-UG熊本に参加してきた](https://midnight480.com/posts/jawsug-kmmt-20250125)
+- [Amazon Bedrock Guardrails Hands-onをやってみた](https://midnight480.com/posts/bedrock-guardrails-workshop)
 - [macOSで発生したDocker Desktopの対応メモ](https://midnight480.com/posts/repair-docker-desktop-on-macos)
 - [2024年の振り返り](https://midnight480.com/posts/review-2024)
 - [Backlog APIを使ってプロジェクト管理者を抽出しよう](https://midnight480.com/posts/backlog-api-export-project-manager)
@@ -24,9 +27,6 @@ Here are some ideas to get you started:
 - [結婚式を挙げてみた](https://midnight480.com/posts/wedding-memories)
 - [JAWS Pankration 2024 に運営で参加してきた](https://midnight480.com/posts/jaws-pankration-2024)
 - [JAWS-UG 佐賀 ふりかえり 8/3開催分](https://midnight480.com/posts/jawsug-saga-20240803)
-- [JAWS-UG佐賀 の活動振り返り（3/18週）](https://midnight480.com/posts/jawsugsaga-20240318week)
-- [JAWS DAYS 2024 に参加してきた](https://midnight480.com/posts/jaws-days-2024)
-- [Cloudflare Meet-up Oita Vol.1 に参加してきた](https://midnight480.com/posts/cloudflare-meetup-oita-20240210)
 <!--[END POSTS]-->
 
 ## Status
