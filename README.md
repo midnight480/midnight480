@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
 - [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
 - [４年ぶりのJAWS-UG熊本に参加してきた](https://midnight480.com/posts/jawsug-kmmt-20250125)
 - [Amazon Bedrock Guardrails Hands-onをやってみた](https://midnight480.com/posts/bedrock-guardrails-workshop)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [2024年オフラインイベント最後となるかもしれないJAWS-UG 佐賀 を開催してみた](https://midnight480.com/posts/jawsug-saga-20241117)
 - [結婚式を挙げてみた](https://midnight480.com/posts/wedding-memories)
 - [JAWS Pankration 2024 に運営で参加してきた](https://midnight480.com/posts/jaws-pankration-2024)
-- [JAWS-UG 佐賀 ふりかえり 8/3開催分](https://midnight480.com/posts/jawsug-saga-20240803)
 <!--[END POSTS]-->
 
 ## Status
