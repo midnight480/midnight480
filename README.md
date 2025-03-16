@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
-- [Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
+- [Personal production tools related to Backlog/Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
 - [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
 - [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
