@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
 - [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
 - [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [2024年の振り返り](https://midnight480.com/posts/review-2024)
 - [Backlog APIを使ってプロジェクト管理者を抽出しよう](https://midnight480.com/posts/backlog-api-export-project-manager)
 - [2024年オフラインイベント最後となるかもしれないJAWS-UG 佐賀 を開催してみた](https://midnight480.com/posts/jawsug-saga-20241117)
-- [結婚式を挙げてみた](https://midnight480.com/posts/wedding-memories)
 <!--[END POSTS]-->
 
 ## Status
