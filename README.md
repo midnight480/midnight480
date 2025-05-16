@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [令和７年度 SAGA Smart Terakoya Meetup  ](https://midnight480.com/posts/saga-smart-terakoya-20250516)
 - [Personal production tools related to Backlog/Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
 - [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [macOSで発生したDocker Desktopの対応メモ](https://midnight480.com/posts/repair-docker-desktop-on-macos)
 - [2024年の振り返り](https://midnight480.com/posts/review-2024)
 - [Backlog APIを使ってプロジェクト管理者を抽出しよう](https://midnight480.com/posts/backlog-api-export-project-manager)
-- [2024年オフラインイベント最後となるかもしれないJAWS-UG 佐賀 を開催してみた](https://midnight480.com/posts/jawsug-saga-20241117)
 <!--[END POSTS]-->
 
 ## Status
