@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [JAWS-UG佐賀 AWSでLet's Play！気軽に楽しむ生成AI を開催した](https://midnight480.com/posts/jawsug-saga-20250531)
 - [令和７年度 SAGA Smart Terakoya Meetup  ](https://midnight480.com/posts/saga-smart-terakoya-20250516)
 - [Personal production tools related to Backlog/Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [Amazon Bedrock Guardrails Hands-onをやってみた](https://midnight480.com/posts/bedrock-guardrails-workshop)
 - [macOSで発生したDocker Desktopの対応メモ](https://midnight480.com/posts/repair-docker-desktop-on-macos)
 - [2024年の振り返り](https://midnight480.com/posts/review-2024)
-- [Backlog APIを使ってプロジェクト管理者を抽出しよう](https://midnight480.com/posts/backlog-api-export-project-manager)
 <!--[END POSTS]-->
 
 ## Status
