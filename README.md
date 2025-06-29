@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [Postman API Night Fukuoka 2025 Summer で登壇してきた](https://midnight480.com/posts/postman-api-night-fukuoka-summer-2025)
 - [AWS SUMMIT JAPAN 2025　に参加してきた](https://midnight480.com/posts/aws-summit-japan-2025)
 - [Build a Game by Amazon Q](https://midnight480.com/posts/20250611-amazon-q-dev-cli)
 - [JAWS-UG佐賀 AWSでLet's Play！気軽に楽しむ生成AI を開催した](https://midnight480.com/posts/jawsug-saga-20250531)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
 - [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
 - [４年ぶりのJAWS-UG熊本に参加してきた](https://midnight480.com/posts/jawsug-kmmt-20250125)
-- [Amazon Bedrock Guardrails Hands-onをやってみた](https://midnight480.com/posts/bedrock-guardrails-workshop)
 <!--[END POSTS]-->
 
 ## Status
