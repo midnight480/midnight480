@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [AWS Builder Challenge #2: Setting Up Your AWS Free Tier Account](https://midnight480.com/posts/aws-builder-challenge-2-1)
 - [AI Coding Agent at Fukuoka に参加した](https://midnight480.com/posts/ai-coding-agent-at-fukuoka-2025)
 - [Postman API Night Fukuoka 2025 Summer で登壇してきた](https://midnight480.com/posts/postman-api-night-fukuoka-summer-2025)
 - [AWS SUMMIT JAPAN 2025　に参加してきた](https://midnight480.com/posts/aws-summit-japan-2025)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [Personal production tools related to Backlog/Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
 - [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
-- [2025年初回のJAWS-UG佐賀を開催した](https://midnight480.com/posts/jawsugsaga-20250201)
 <!--[END POSTS]-->
 
 ## Status
