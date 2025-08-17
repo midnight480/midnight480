@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [AWS Builder Challenge #2: Creating Your Secure S3 Bucket](https://midnight480.com/posts/aws-builder-challenge-2-2)
 - [AWS Builder Challenge #2: Setting Up Your AWS Free Tier Account](https://midnight480.com/posts/aws-builder-challenge-2-1)
 - [AI Coding Agent at Fukuoka に参加した](https://midnight480.com/posts/ai-coding-agent-at-fukuoka-2025)
 - [Postman API Night Fukuoka 2025 Summer で登壇してきた](https://midnight480.com/posts/postman-api-night-fukuoka-summer-2025)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [令和７年度 SAGA Smart Terakoya Meetup  ](https://midnight480.com/posts/saga-smart-terakoya-20250516)
 - [Personal production tools related to Backlog/Backlog関連の個人制作ツール](https://midnight480.com/posts/backlog-tools)
 - [JAWS DAYS 2025 に当日スタッフで参加してきた](https://midnight480.com/posts/jaws-days-2025)
-- [JAWS-UG福岡 re:Capに参加してきた](https://midnight480.com/posts/jawsug-fuk-20250209)
 <!--[END POSTS]-->
 
 ## Status
