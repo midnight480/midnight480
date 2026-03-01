@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [LTとAWS Builder Cardsの会 を開催した](https://midnight480.com/posts/jawsug-saga-20260228)
 - [SAGA IT Community Day 2026 Winter を開催した](https://midnight480.com/posts/saga-it-community-day-2026-winter)
 - [2025年の振り返りと2026年の活動](https://midnight480.com/posts/2025-recap-2026-activity)
 - [AWS Builder Challenge #2: Creating Your Secure S3 Bucket](https://midnight480.com/posts/aws-builder-challenge-2-2)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [AWS SUMMIT JAPAN 2025　に参加してきた](https://midnight480.com/posts/aws-summit-japan-2025)
 - [Build a Game by Amazon Q](https://midnight480.com/posts/20250611-amazon-q-dev-cli)
 - [JAWS-UG佐賀 AWSでLet's Play！気軽に楽しむ生成AI を開催した](https://midnight480.com/posts/jawsug-saga-20250531)
-- [令和７年度 SAGA Smart Terakoya Meetup  ](https://midnight480.com/posts/saga-smart-terakoya-20250516)
 <!--[END POSTS]-->
 
 ## Status
