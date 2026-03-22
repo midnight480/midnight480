@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [GWD in 長崎 に参加してきた](https://midnight480.com/posts/20260319-gwd-nagasaki)
+- [九州サイバーセキュリティシンポジウム に参加してきた](https://midnight480.com/posts/20260318-kyusec)
 - [LTとAWS Builder Cardsの会 を開催した](https://midnight480.com/posts/jawsug-saga-20260228)
 - [SAGA IT Community Day 2026 Winter を開催した](https://midnight480.com/posts/saga-it-community-day-2026-winter)
 - [2025年の振り返りと2026年の活動](https://midnight480.com/posts/2025-recap-2026-activity)
@@ -25,8 +27,6 @@ Here are some ideas to get you started:
 - [AI Coding Agent at Fukuoka に参加した](https://midnight480.com/posts/ai-coding-agent-at-fukuoka-2025)
 - [Postman API Night Fukuoka 2025 Summer で登壇してきた](https://midnight480.com/posts/postman-api-night-fukuoka-summer-2025)
 - [AWS SUMMIT JAPAN 2025　に参加してきた](https://midnight480.com/posts/aws-summit-japan-2025)
-- [Build a Game by Amazon Q](https://midnight480.com/posts/20250611-amazon-q-dev-cli)
-- [JAWS-UG佐賀 AWSでLet's Play！気軽に楽しむ生成AI を開催した](https://midnight480.com/posts/jawsug-saga-20250531)
 <!--[END POSTS]-->
 
 ## Status
