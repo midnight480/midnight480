@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [SAGA IT Community Day 2026 Winterの進め方をまとめる](https://midnight480.com/posts/management-saga-it-community-day-2026-winter)
 - [GWD in 長崎 に参加してきた](https://midnight480.com/posts/20260319-gwd-nagasaki)
 - [九州サイバーセキュリティシンポジウム に参加してきた](https://midnight480.com/posts/20260318-kyusec)
 - [LTとAWS Builder Cardsの会 を開催した](https://midnight480.com/posts/jawsug-saga-20260228)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [AWS Builder Challenge #2: Setting Up Your AWS Free Tier Account](https://midnight480.com/posts/aws-builder-challenge-2-1)
 - [AI Coding Agent at Fukuoka に参加した](https://midnight480.com/posts/ai-coding-agent-at-fukuoka-2025)
 - [Postman API Night Fukuoka 2025 Summer で登壇してきた](https://midnight480.com/posts/postman-api-night-fukuoka-summer-2025)
-- [AWS SUMMIT JAPAN 2025　に参加してきた](https://midnight480.com/posts/aws-summit-japan-2025)
 <!--[END POSTS]-->
 
 ## Status
