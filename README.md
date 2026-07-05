@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://midnight480.com/posts/fable-5-asahigakuen-jyouhou)
 - [Macのストレージ管理アプリを自作してみた](https://midnight480.com/posts/mac-storage-monitor)
 - [AWS Builder Cards と CloudQuest の会を開催した](https://midnight480.com/posts/jawsug-saga-20260523)
 - [SAGA IT Community Day 2026 Winterの進め方をまとめる](https://midnight480.com/posts/management-saga-it-community-day-2026-winter)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [SAGA IT Community Day 2026 Winter を開催した](https://midnight480.com/posts/saga-it-community-day-2026-winter)
 - [2025年の振り返りと2026年の活動](https://midnight480.com/posts/2025-recap-2026-activity)
 - [AWS Builder Challenge #2: Creating Your Secure S3 Bucket](https://midnight480.com/posts/aws-builder-challenge-2-2)
-- [AWS Builder Challenge #2: Setting Up Your AWS Free Tier Account](https://midnight480.com/posts/aws-builder-challenge-2-1)
 <!--[END POSTS]-->
 
 ## Status
