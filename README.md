@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 ## Recent Posts
 <!--[START POSTS]-->
 - [LINEの通知を見逃さないために、グループの発言をぜんぶBacklogに転記するボットを作った（CDK + Lambda + Bedrock）
-](https://midnight480.com/posts/backlog-with-line)
-- [福岡で九州各県から集まる会を開催した](https://midnight480.com/posts/jawsug-kyushu-quest-fukuoka-20260926)
-- [Kiro Crew を Amazon Lightsail に常駐させたら、メモリではなく CPU で詰まった話](https://midnight480.com/posts/kiro-crew-in-lightsail)
-- [オンライン登壇後にみんなでKiroを触る会を開催した](https://midnight480.com/posts/jawsug-saga-20260906)
-- [唐津で初めてイベントを開催してみた](https://midnight480.com/posts/jawsug-saga-20260719)
-- [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://midnight480.com/posts/fable-5-asahigakuen-jyouhou)
-- [Macのストレージ管理アプリを自作してみた](https://midnight480.com/posts/mac-storage-monitor)
-- [AWS Builder Cards と CloudQuest の会を開催した](https://midnight480.com/posts/jawsug-saga-20260523)
-- [SAGA IT Community Day 2026 Winterの進め方をまとめる](https://midnight480.com/posts/management-saga-it-community-day-2026-winter)
-- [GWD in 長崎 に参加してきた](https://midnight480.com/posts/20260319-gwd-nagasaki)
+](https://blog.midnight480.com/posts/backlog-with-line)
+- [福岡で九州各県から集まる会を開催した](https://blog.midnight480.com/posts/jawsug-kyushu-quest-fukuoka-20260926)
+- [Kiro Crew を Amazon Lightsail に常駐させたら、メモリではなく CPU で詰まった話](https://blog.midnight480.com/posts/kiro-crew-in-lightsail)
+- [オンライン登壇後にみんなでKiroを触る会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20260906)
+- [唐津で初めてイベントを開催してみた](https://blog.midnight480.com/posts/jawsug-saga-20260719)
+- [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://blog.midnight480.com/posts/fable-5-asahigakuen-jyouhou)
+- [Macのストレージ管理アプリを自作してみた](https://blog.midnight480.com/posts/mac-storage-monitor)
+- [AWS Builder Cards と CloudQuest の会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20260523)
+- [SAGA IT Community Day 2026 Winterの進め方をまとめる](https://blog.midnight480.com/posts/management-saga-it-community-day-2026-winter)
+- [GWD in 長崎 に参加してきた](https://blog.midnight480.com/posts/20260319-gwd-nagasaki)
 <!--[END POSTS]-->
 
 ## Status
