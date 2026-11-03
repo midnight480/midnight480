@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [佐賀で AI-DLC 会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20261101)
+- [佐賀で生成AI会の開催をお手伝いした](https://blog.midnight480.com/posts/enjoyaimeetup-saga-20261031)
 - [LINEの通知を見逃さないために、グループの発言をぜんぶBacklogに転記するボットを作った（CDK + Lambda + Bedrock）
 ](https://blog.midnight480.com/posts/backlog-with-line)
 - [福岡で九州各県から集まる会を開催した](https://blog.midnight480.com/posts/jawsug-kyushu-quest-fukuoka-20260926)
@@ -26,8 +28,6 @@ Here are some ideas to get you started:
 - [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://blog.midnight480.com/posts/fable-5-asahigakuen-jyouhou)
 - [Macのストレージ管理アプリを自作してみた](https://blog.midnight480.com/posts/mac-storage-monitor)
 - [AWS Builder Cards と CloudQuest の会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20260523)
-- [SAGA IT Community Day 2026 Winterの進め方をまとめる](https://blog.midnight480.com/posts/management-saga-it-community-day-2026-winter)
-- [GWD in 長崎 に参加してきた](https://blog.midnight480.com/posts/20260319-gwd-nagasaki)
 <!--[END POSTS]-->
 
 ## Status
