@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [初めての佐賀県産業スマート化センターのハッカソンに参加した](https://blog.midnight480.com/posts/saga-smart-innovation-day-20261115)
 - [初めての東北ITイベントに参加した](https://blog.midnight480.com/posts/jaws-festa-2026-in-akita-20261107)
 - [佐賀で AI-DLC 会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20261101)
 - [佐賀で生成AI会の開催をお手伝いした](https://blog.midnight480.com/posts/enjoyaimeetup-saga-20261031)
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 - [オンライン登壇後にみんなでKiroを触る会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20260906)
 - [唐津で初めてイベントを開催してみた](https://blog.midnight480.com/posts/jawsug-saga-20260719)
 - [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://blog.midnight480.com/posts/fable-5-asahigakuen-jyouhou)
-- [Macのストレージ管理アプリを自作してみた](https://blog.midnight480.com/posts/mac-storage-monitor)
 <!--[END POSTS]-->
 
 ## Status
