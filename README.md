@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Recent Posts
 <!--[START POSTS]-->
+- [Every Deadline Is a Candle: Building a Japanese-Horror To-Do App with Kiro](https://blog.midnight480.com/posts/tomoshibi-japanese-horror-todo-app-kiro)
 - [初めての佐賀県産業スマート化センターのハッカソンに参加した](https://blog.midnight480.com/posts/saga-smart-innovation-day-20261115)
 - [初めての東北ITイベントに参加した](https://blog.midnight480.com/posts/jaws-festa-2026-in-akita-20261107)
 - [佐賀で AI-DLC 会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20261101)
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 - [Kiro Crew を Amazon Lightsail に常駐させたら、メモリではなく CPU で詰まった話](https://blog.midnight480.com/posts/kiro-crew-in-lightsail)
 - [オンライン登壇後にみんなでKiroを触る会を開催した](https://blog.midnight480.com/posts/jawsug-saga-20260906)
 - [唐津で初めてイベントを開催してみた](https://blog.midnight480.com/posts/jawsug-saga-20260719)
-- [旭学園の令和7年度事業報告書をFable 5で分析してみた](https://blog.midnight480.com/posts/fable-5-asahigakuen-jyouhou)
 <!--[END POSTS]-->
 
 ## Status
